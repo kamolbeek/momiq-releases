@@ -1,0 +1,66 @@
+{
+ "v": 1,
+ "files": {
+  "ggml-rubaistt-medium-q5_0.bin": {
+   "size": 539212484,
+   "sha256": "3740210b611c13c5bad257d6207dbf4572b7843043191bab39ccdf47c1734e9c",
+   "license": "Apache-2.0",
+   "origin": "https://huggingface.co/azimxxm/rubaistt-v2-medium-ggml",
+   "parts": [
+    {
+     "name": "part-000",
+     "size": 94371840,
+     "sha256": "ac9d82f3055fa6897437d4177d22496819111a134dff4762fe5ace36a3e5b31b"
+    },
+    {
+     "name": "part-001",
+     "size": 94371840,
+     "sha256": "89040d63b5bd2ee5b0e576784e52cfc1280d8f809b85cd6067ad12da9e96e311"
+    },
+    {
+     "name": "part-002",
+     "size": 94371840,
+     "sha256": "9a4c8a349e12230c582f6c4f925e744d82d11790434e49f33e2cdd399ef3358e"
+    },
+    {
+     "name": "part-003",
+     "size": 94371840,
+     "sha256": "c38255e180b9aaf71eb396a0955969be917f8bfc4066cf6957e4bad8ad0c595c"
+    },
+    {
+     "name": "part-004",
+     "size": 94371840,
+     "sha256": "12d18d810ba8afaf80b83bd9fbb76118e0702e28fded9bb99526bf4bfb4f179d"
+    },
+    {
+     "name": "part-005",
+     "size": 67353284,
+     "sha256": "ae7b6c3cc23cbb507f3d3406c09417fe6e997d8c10dbe924ace470ce679bed9a"
+    }
+   ]
+  },
+  "ggml-small-q5_1.bin": {
+   "size": 190085487,
+   "sha256": "ae85e4a935d7a567bd102fe55afc16bb595bdb618e11b2fc7591bc08120411bb",
+   "license": "MIT",
+   "origin": "https://huggingface.co/ggerganov/whisper.cpp",
+   "parts": [
+    {
+     "name": "part-000",
+     "size": 94371840,
+     "sha256": "a031fe5b20aca1d01b0ee2c3d32e49677448cc10c8f27a574d6eed1f767341a4"
+    },
+    {
+     "name": "part-001",
+     "size": 94371840,
+     "sha256": "524a3458ea4dcc589747bc34375d67f56feaea4b6cc3fc019090d89c59d05279"
+    },
+    {
+     "name": "part-002",
+     "size": 1341807,
+     "sha256": "d7c2fca6e7dea012408fd8d5e15a88ed5e0fa57f503b4ef5e56335c03416a8af"
+    }
+   ]
+  }
+ }
+}
