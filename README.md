@@ -1,6 +1,10 @@
 # Momiq — ochiq yuklamalar
 
-<p align="center"><img src="media/momiq-boshqaruv.gif" alt="Momiq kompyuterni boshqaradi: 1 — buyruqni strelka bilan bajaradi, 2 — avval ruxsat so'raydi, 3 — ekranni to'liq o'zi boshqaradi" width="100%"></p>
+<p align="center">
+  <img src="media/1-buyruq.gif" alt="1 — Momiq buyruqni strelka bilan bajaradi" width="520"><br><br>
+  <img src="media/2-ruxsat.gif" alt="2 — Momiq avval ruxsat so'raydi" width="520"><br><br>
+  <img src="media/3-boshqaruv.gif" alt="3 — Momiq ekranni o'zi boshqaradi" width="520">
+</p>
 
 Bu repoda Momiq ilovasi o'zi yuklab oladigan fayllar turadi (kod yo'q):
 
